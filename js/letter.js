@@ -6,7 +6,7 @@ $("#open").click(function () {
 	if (!aparted) {
 		var typed = new Typed('.letter', {
 			strings: [
-				"亲爱的小宝贝^200<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这是一封只写给你的信，给我一生所爱的女孩子<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;很荣幸与你相遇，我也很欢喜将与你度过后半生<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我不是个完美的人，但我会将所有的美好都送与你<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;余生还请多多指教（宝贝来旋转木马）<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;爱你的<br/><p style='float:right; display:block; width:80px;'>^1000哥哥</p>"],
+				"亲爱的小宝贝^200<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这是一封只写给你的信，给我一生所爱的女孩子<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;很荣幸与你相遇，我也很欢喜将与你度过后半生<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我不是个完美的人，但我会将所有的美好都送与你<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;余生还请多多指教<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;爱你的<br/><p style='float:right; display:block; width:80px;'>^1000哥哥</p>"],
 			typeSpeed: 130,
 			backSpeed: 50
 		});
